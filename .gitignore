@@ -1,0 +1,17 @@
+# Environment variables & API keys
+.env
+.env.local
+
+# Database & CSV exports
+data/*.db
+data/*.csv
+raw_senate_data/
+
+# Python virtual environment & cache
+venv/
+__pycache__/
+*.pyc
+
+# OS & Editor generated files
+.DS_Store
+.vscode/

@@ -1,0 +1,14 @@
+{
+  "name": "AmberDash Mondstadt Theme",
+  "dataColors": ["#E63946", "#1D3557", "#457B9D", "#F4A261", "#2A9D8F"],
+  "background": "#F8F9FA",
+  "foreground": "#1D3557",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "visualContainerBorder": [{ "show": true, "radius": 8, "color": { "solid": { "color": "#E0E0E0" } } }],
+        "dropShadow": [{ "show": true, "preset": "Custom", "shadowColor": { "solid": { "color": "#000000" } }, "opacity": 10, "blur": 5 }]
+      }
+    }
+  }
+}
