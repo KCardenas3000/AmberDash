@@ -5,6 +5,7 @@
 # Database & CSV exports
 data/*.db
 data/*.csv
+!data/powerbi_ready_senate_audit.csv
 raw_senate_data/
 
 # Python virtual environment & cache
