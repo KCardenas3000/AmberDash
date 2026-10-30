@@ -31,7 +31,6 @@ def load_data():
     query = """
     SELECT 
         target_state,
-        target_name,
         committee_party,
         recipient_name,
         disbursement_amount,

@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("final_battleground_senate_audit.csv")
+df = pd.read_csv("data/final_battleground_senate_audit.csv")
 
 def categorize_spending(desc):
     if pd.isna(desc):
